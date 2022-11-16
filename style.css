@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#details {
+  display: flex;
+  justify-content: space-around;
+  background-color: grey;
+}
+
+.info {
+  text-align: center;
+}
